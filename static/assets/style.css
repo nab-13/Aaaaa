@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+/* Functional CSS */
+.hide {
+    /* Hides assigned div */
+    display: none;
+    visibility: none;
+}
+
+/* Below is for prettiness */
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-style: bold;
+}
+
+body, html {
+    background-color: #131516;
+    border: none;
+    margin: none;
+    padding: none;
+}
+
+p, h1, h2, h3, h4 {
+    color: #d8d4cf;
+    font-family: 'Roboto', sans-serif;
+}
+
+#head {
+    text-align: center;
+    align-items: center;
+}
+
+#content {
+    text-align: center;
+    align-items: center;}
+
+#buttons {
+
+}
+
+#newPlaylist {
+
+}
